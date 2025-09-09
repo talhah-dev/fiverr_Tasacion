@@ -5,7 +5,6 @@ footer.innerHTML = `
             <div class="flex flex-col gap-8 md:flex-row md:items-center md:justify-between">
                 <!-- Brand -->
                 <a href="/" class="inline-flex items-center gap-3 text-white">
-                    <img src="/docs/assets/images/FaviconWhite.png" class="h-8" alt="">
                     <img src="/docs/assets/images/Logo.png" class="h-5" alt="">
                 </a>
 
